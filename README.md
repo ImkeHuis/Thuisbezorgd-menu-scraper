@@ -1,5 +1,5 @@
 # Thuisbezorgd-menu-scraper
-#### Scraping restaurant data and their menu items data from Thuisbezorgd
+### Scraping restaurant data and their menu items data from Thuisbezorgd
 
 This was a project for the course Solving Societal Health Challenges with Data Science (CHL60309) at Wageningen University. 
 
